@@ -64,7 +64,7 @@ Keep track of solved problems:
 
 | Difficulty | Problems Solved | Total Problems | Completion |
 |------------|-----------------|----------------|------------|
-| 🟢 Easy    | XX              | YY             | ZZ%        |
+| 🟢 Easy    | 01              | Infinity       | ZZ%        |
 | 🟡 Medium  | XX              | YY             | ZZ%        |
 | 🔴 Hard    | XX              | YY             | ZZ%        |
 
